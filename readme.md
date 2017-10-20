@@ -58,6 +58,12 @@ python3 db_list.py
 ```
 
 
+### Okienko z progress bar
+
+```
+python3 tk.py
+```
+
 
 # Materiały:
 
@@ -70,6 +76,10 @@ https://www.jetbrains.com/pycharm/
 
 Python - podstawy
 https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+
+Tkinter:
+http://www.tkdocs.com/tutorial/
+http://infohost.nmt.edu/tcc/help/pubs/tkinter/web/index.html
 
 Requests
 http://docs.python-requests.org/en/master/
